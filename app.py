@@ -134,7 +134,7 @@ while True:
         break
     if (all(isinstance(item,str) for item in myList)):
         print('Game over:There is no winner')
-        break
+        break 
 
 
 
